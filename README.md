@@ -35,9 +35,10 @@ Proyek ini dibuat untuk mempelajari dasar-dasar pemrograman Python, khususnya:
 
 task-tracker/
 │
+├── .gitignore
 ├── task_cli.py
-├── tasks.json
-└── README.md
+├── README.md
+└── tasks.json (dibuat otomatis saat aplikasi dijalankan)
 
 ## Cara Menjalankan
 
