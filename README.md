@@ -92,3 +92,7 @@ Setiap tugas memiliki properti:
 ## Status Proyek
 
 Proyek Task Tracker CLI telah selesai dibuat dan seluruh fitur utama telah diuji.
+
+## Project URL
+
+GitHub Repository: https://github.com/Jakoy11/Task-Tracker-CLI
