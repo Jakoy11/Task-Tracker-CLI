@@ -1,0 +1,7 @@
+
+# File data tugas pribadi
+tasks.json
+
+# Cache Python
+__pycache__/
+*.pyc
